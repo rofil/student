@@ -1,4 +1,4 @@
 <?php
 
-Route::get("/testing", 
+Route::get("/student", 
 	"Rofil\Student\Http\Controllers\DefaultController@index");
